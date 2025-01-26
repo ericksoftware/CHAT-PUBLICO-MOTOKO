@@ -82,5 +82,3 @@ Steps to run the project
    Deploy the project to the local network:
    dfx deploy
    This will deploy all canisters (the Motoko backend and frontend) to the local Internet Computer environment.
-
-Translated with DeepL.com (free version)
